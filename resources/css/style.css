@@ -1,0 +1,14 @@
+nav{
+    margin: 0 auto;
+}
+.header-bg{
+    background-color: #014460;
+    margin: 0 auto
+}
+.container{
+    margin: 0 auto;
+}
+.btn-info {
+    border-radius: 35px;
+    background-color: #F7CA29
+}

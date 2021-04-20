@@ -1,0 +1,44 @@
+/* Start Navbar */
+.header-bg{
+    background-color: #014460;
+    margin: 0 auto
+}
+.container{
+    margin: 0 auto;
+}
+.btn-info {
+    border-radius: 35px;
+    background-color: #F7CA29
+}
+.btn-warning {
+    color: #212529;
+    background-color: #ffc107;
+    border-color: #ffc107;
+    border-radius: 20px  !important;
+}/* Start Navbar */
+
+/* Start Slider */
+.slider-img{
+    height: 500px;
+}
+.slider-container{
+    position: relative;
+    color: white;
+    text-align: center;
+}
+.content{
+    position: absolute;
+    top: 50px;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.apply-btn{
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+/* End Slider */
